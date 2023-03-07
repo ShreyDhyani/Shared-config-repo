@@ -1,6 +1,6 @@
 {
   "name": "@shared-test/prettier-config-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Prettier configuration for react",
   "main": "index.json",
   "peerDependencies": {
