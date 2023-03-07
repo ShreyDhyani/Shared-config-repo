@@ -1,5 +1,11 @@
 # @shared-test/prettier-config-react
 
+## 1.0.5
+
+### Patch Changes
+
+- a80f85c: Test
+
 ## 1.0.4
 
 ### Patch Changes
