@@ -4,7 +4,7 @@
   "semi": true,
   "overrides": [
     {
-      "files": ["*.html", "*.ts", "*.js", "*.jsx", "*.tsx", "*.cjs"],
+      "files": ["*.html", "*.ts", "*.js", "*.jsx", "*.tsx", "*.cjs", "*.md"],
       "options": {
         "semi": true,
         "singleQuote": true,
