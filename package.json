@@ -1,6 +1,6 @@
 {
   "name": "shared-config-repo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/ShreyDhyani/Shared-config-repo/issues"
   },
-  "homepage": "https://github.com/ShreyDhyani/Shared-config-repo#readme"
+  "homepage": "https://github.com/ShreyDhyani/Shared-config-repo#readme",
+  "dependencies": {
+    "@changesets/cli": "^2.26.0"
+  }
 }
