@@ -1,5 +1,11 @@
 # @shared-test/prettier-config-react
 
+## 1.1.0
+
+### Minor Changes
+
+- 8793f4b: Testing
+
 ## 1.0.5
 
 ### Patch Changes
